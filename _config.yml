@@ -1,0 +1,20 @@
+title: "Gaokai Zhang"
+description: "Researcher in LLM Reasoning & Long‑Context Systems"
+url: "https://gaokaizhang.github.io"   # ← keep this
+baseurl: ""                             # empty for user site
+
+theme: minima                           # GitHub’s default, works in safe‑mode
+
+# navigation links (minima shows these automatically)
+header_pages:
+  - index.md
+  - cv.pdf
+
+# optional social links for minima footer
+github_username:  GaokaiZhang
+linkedin_username: gaokaizhang
+
+# only the plugins GitHub Pages allows by default
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
