@@ -13,16 +13,16 @@ Open to MLE and SDE intern opportunities!
 
 ---
 
-## 📂 ~/about_me/
+## 📂 ([~/about_me/](/Gaokai_Resume.pdf))
 
-Hi there! 👋 I’m **Gaokai Zhang**. I hold dual B.S. degrees at [ZJUI](https://zjui.intl.zju.edu.cn/en/) (CompE @ UIUC, ECE @ ZJU) and will start my MIIS master’s at CMU‑LTI in Fall 2025.
+Hi there! 👋 I’m **Gaokai Zhang**. I am an MIIS at CMU‑LTI since Fall 2025 (NLP/LLM) and I hold dual B.S. degrees at [ZJUI](https://zjui.intl.zju.edu.cn/en/) (CompE @ UIUC, ECE @ ZJU).
 
-Starting from my junior year at **UIUC**, I have worked on:  
+From July 2024 to July 2025, I joined Microsoft SRG group as an intern. At **MSRA**, I gained hands‑on experience with LLMs, RL, SFT, and business‑scale ML systems. I incorporated novel data synthesis and solid reinforcement learning in ([LoongRL](https://arxiv.org/abs/2510.19363)) to make 7B models surpass 32B LRMs in long-context reasoning tasks at even 100k-200k tokens.
+I contributed **LongRoPE2**—extending LLM context windows to 128 K tokens while retaining 98.5 % short‑context accuracy ([ICML 2025 poster](https://arxiv.org/abs/2502.20082))—and built a parallel pipeline for large‑scale user‑query processing and delivered production‑ready long‑context recommendation models to [Microsoft Asia‑Pacific R&D](https://www.microsoft.com/en-us/aprd/default).
+
+At **UIUC**, I have worked on:  
 - Monte‑Carlo‑Tree‑Search planning for cost‑efficient LLM training on heterogeneous GPUs/TPUs.  
 - Robustness benchmarking of LLMs ([Stochastic Monkeys](https://arxiv.org/abs/2411.02785)).  
-
-From July 2024 to July 2025, I joined Microsoft SRG group as an intern. At **MSRA**, I gained hands‑on experience with LLMs, RL, SFT, and business‑scale ML systems.
-I contributed **LongRoPE2**—extending LLM context windows to 128 K tokens while retaining 98.5 % short‑context accuracy ([ICML 2025 poster](https://arxiv.org/abs/2502.20082))—and built a parallel pipeline for large‑scale user‑query processing and delivered production‑ready long‑context recommendation models to [Microsoft Asia‑Pacific R&D](https://www.microsoft.com/en-us/aprd/default).
 
 ---
 
