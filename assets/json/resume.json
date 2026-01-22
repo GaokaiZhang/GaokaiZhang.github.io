@@ -1,0 +1,63 @@
+{
+  "basics": {
+    "name": "Gaokai Zhang",
+    "label": "LLM Researcher",
+    "email": "gaokaiz2@andrew.cmu.edu",
+    "url": "https://gaokaizhang.github.io",
+    "summary": "M.S. student at CMU LTI working on LLM reasoning, long-context systems, and reinforcement learning.",
+    "location": {
+      "city": "Pittsburgh",
+      "region": "PA",
+      "countryCode": "US"
+    },
+    "profiles": [
+      {
+        "network": "GitHub",
+        "username": "GaokaiZhang",
+        "url": "https://github.com/GaokaiZhang"
+      },
+      {
+        "network": "LinkedIn",
+        "username": "gaokaizhang",
+        "url": "https://linkedin.com/in/gaokaizhang"
+      }
+    ]
+  },
+  "education": [
+    {
+      "institution": "Carnegie Mellon University",
+      "area": "Intelligent Information Systems",
+      "studyType": "M.S.",
+      "startDate": "2025-08",
+      "endDate": "2027-05"
+    },
+    {
+      "institution": "University of Illinois Urbana-Champaign & Zhejiang University",
+      "area": "Computer Engineering / Electrical & Computer Engineering",
+      "studyType": "Dual B.S.",
+      "startDate": "2021-08",
+      "endDate": "2025-05"
+    }
+  ],
+  "work": [
+    {
+      "name": "Microsoft Research Asia",
+      "position": "Research Intern",
+      "startDate": "2024-07",
+      "endDate": "2025-07",
+      "summary": "Systems & Networking Group. Worked on LongRoPE2 and LoongRL for long-context LLM reasoning."
+    }
+  ],
+  "publications": [
+    {
+      "name": "LongRoPE2: Near-Lossless LLM Context Window Scaling",
+      "publisher": "ICML 2025",
+      "releaseDate": "2025"
+    },
+    {
+      "name": "LoongRL: Incentivizing Long-Context Reasoning in LLMs via RL",
+      "publisher": "arXiv",
+      "releaseDate": "2025"
+    }
+  ]
+}
