@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-LoongRL accepted at **ICLR 2026** - my first (co-)first-author work!
+LoongRL accepted as **Oral** at **ICLR 2026** - my first co-first-authored paper!
