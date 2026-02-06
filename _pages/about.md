@@ -39,7 +39,7 @@ Currently, I'm working on **SWE-Bench related code-generation agent training** w
 *Research Intern, Systems & Networking Group*
 Mentored by [Dr. Li Lyna Zhang](https://www.microsoft.com/en-us/research/people/lzhani/)
 
-- Led [**LoongRL**](https://arxiv.org/abs/2510.19363): Novel data synthesis + reinforcement learning enabling 7B models to surpass 32B LRMs in long-context reasoning (100k-200k tokens) (**ICLR 2026**)
+- Led [**LoongRL**](https://arxiv.org/abs/2510.19363): Novel data synthesis + reinforcement learning enabling 7B models to surpass 32B LRMs in long-context reasoning (100k-200k tokens) (**ICLR 2026 Oral**)
 - Contributed to [**LongRoPE2**](https://arxiv.org/abs/2502.20082): Extended LLM context windows to 128K tokens while retaining 98.5% short-context accuracy (**ICML 2025 poster**)
 - Built parallel pipeline for large-scale user-query processing; delivered production-ready long-context recommendation models to [Microsoft Asia-Pacific R&D](https://www.microsoft.com/en-us/aprd/default)
 
