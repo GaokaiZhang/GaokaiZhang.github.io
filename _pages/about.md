@@ -27,7 +27,7 @@ latest_posts:
 
 Hi there! I'm **Gaokai Zhang**, an M.S. student in [Intelligent Information Systems](https://miis.cs.cmu.edu/) at CMU LTI since Fall 2025. I hold dual B.S. degrees from [ZJUI](https://zjui.intl.zju.edu.cn/en/) (CompE @ UIUC, ECE @ ZJU).
 
-Currently, I'm working on **SWE-Bench related code-generation agent training** with [Kexun Zhang](https://zkx06111.github.io/) in [Prof. Lei Li's lab](https://leililab.github.io/), focusing on supervised fine-tuning and reinforcement learning for coding agents.
+Currently, I'm working on **SWE-Bench related code-generation agent training** with [Kexun Zhang](https://zkx06111.github.io/) in [Prof. Lei Li's lab](https://leililab.github.io/), focusing on supervised fine-tuning and reinforcement learning for coding agents. I am also working with [Yiqing Xie](https://yiqingxyq.github.io/) and [Prof. Daniel Fried](https://dpfried.github.io/) on code-generation data synthesis and agent training.
 
 **Open to LLM-related MLE/RS opportunities as I'm graduating in December 2026!**
 
@@ -42,6 +42,12 @@ Mentored by [Dr. Li Lyna Zhang](https://www.microsoft.com/en-us/research/people/
 - Led [**LoongRL**](https://arxiv.org/abs/2510.19363): Novel data synthesis + reinforcement learning enabling 7B models to surpass 32B LRMs in long-context reasoning (100k-200k tokens) (**ICLR 2026 Oral**)
 - Contributed to [**LongRoPE2**](https://arxiv.org/abs/2502.20082): Extended LLM context windows to 128K tokens while retaining 98.5% short-context accuracy (**ICML 2025 poster**)
 - Built parallel pipeline for large-scale user-query processing; delivered production-ready long-context recommendation models to [Microsoft Asia-Pacific R&D](https://www.microsoft.com/en-us/aprd/default)
+
+**Carnegie Mellon University** (Oct 2025 – Present)
+*Research Assistant, Language Technologies Institute*
+
+- Synthetic task generation for training coding agents to generalize across repository-level environments ([Hybrid-Gym](https://arxiv.org/abs/2602.16819v1))
+- Synthetic issue generation and test-time training for improving LLM-based coding agents under sparse rewards
 
 **University of Illinois Urbana-Champaign**
 *Research Assistant* with [Prof. Fan Lai](https://www.fanlai.me/) and [Prof. Minjia Zhang](https://minjiazhang.github.io/)

@@ -118,7 +118,6 @@ exclude:
   - README.md
   - readme_preview/
   - vendor
-  - "UIUC transcript.pdf"
 keep_files:
   - CNAME
   - .nojekyll
