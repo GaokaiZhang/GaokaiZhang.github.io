@@ -39,8 +39,8 @@ Currently, I'm interning at **NVIDIA** on agentic-workflow tooling and tokenomic
 *Software Engineer Intern, AI Tools Team*
 
 - Built hook- and skill-based guardrails spanning 5 check categories (secrets, security, code quality, dependency, merge-conflict) that scan AI coding-agent actions in real time
-- Contributed to token-saving agent-workflow skills that cut token consumption via context compaction and cost-aware session hooks
-- Built session-level hooks that meter agent token/cost usage; benchmarked OpenRouter Fusion vs. Opus 4.7 on 30 tasks (tied 16/30, 4-5x slower, 5-6x costlier) to inform cost-governance dashboards
+- Contributed to token-saving agent-workflow skills benchmarked (N=50) against baseline harnesses on SWE-Bench Lite, Terminal-Bench, and CodeScaleBench, showing accuracy parity or improvement alongside uniform cost reduction — e.g., -38% cost with no accuracy loss on CodeScaleBench, and +7% accuracy at -12% cost on SWE-Bench Lite
+- Built session-level hooks that capture agent-event telemetry — per-session token/cost usage, model-routing decisions, and subagent fan-out (turns, tokens) — feeding cost-governance dashboards
 
 **sglang-omni** (Apr 2026 - Present)
 *Open Source Contributor, [SGLang Project](https://github.com/sgl-project/sglang-omni)*
