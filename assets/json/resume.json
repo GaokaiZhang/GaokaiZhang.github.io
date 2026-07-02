@@ -52,7 +52,7 @@
       "position": "Open Source Contributor",
       "startDate": "2026-04",
       "endDate": "",
-      "summary": "Native serving support for 5 TTS model families; initiated a codebase-wide TTS serving-stack refactor; optimized serving via torch.compile/CUDA Graph, LRU caching, and radix-cache adaptation."
+      "summary": "Added native serving support for 5 TTS model families and unified them onto a shared serving scheduler, applying torch.compile/CUDA Graph, LRU caching, and radix-cache reuse to speed up decode by 5.5x."
     },
     {
       "name": "Carnegie Mellon University",
