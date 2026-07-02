@@ -38,16 +38,16 @@ Currently, I'm interning at **NVIDIA** on agentic-workflow tooling and tokenomic
 **NVIDIA** (May 2026 - Present)
 *Software Engineer Intern, NOVA*
 
-- Built Perforce (P4) SCM support and a Bring-Your-Own-Capability plugin system for Coding Guardrails, NVIDIA's secret/code-scanning guardrail for AI coding agents
-- Built core telemetry components (egress gate, producer-log collector, subagent-fanout rollups) for tokenomics-meter, an NVDataflow/Kibana-backed metering pipeline for agentic coding-tool token and cost usage
-- Benchmarked OpenRouter Fusion against Opus 4.7 on Terminal-Bench 2.0 tasks to inform tokenomics model-routing guidance
+- Built governance and security tooling for AI coding agents: extended a secret/code-scanning guardrail with Perforce SCM support and a pluggable capability-extension system, and added breaking-API-change detection plus enforced test-implementation checks to a V-model-based agent development workflow, across 19 authored merge requests (9 merged)
+- Contributed to a token-saving system for agentic coding workflows, exposing a reusable savings-event builder and idempotent context compaction, and forwarding savings telemetry to a centralized cost-relay integration for downstream cost dashboards
+- Built the core telemetry pipeline for agentic coding-tool token and cost usage — an egress allow-list/sanitization gate, a shared producer-log collector, and session-spine/subagent-fanout schema fields feeding a live cost-monitoring dashboard — across 18 authored merge requests (15 merged)
 
 **sglang-omni** (Apr 2026 - Present)
 *Open Source Contributor, [SGLang Project](https://github.com/sgl-project/sglang-omni)*
 
-- Added native TTS serving support for Qwen3-TTS, Voxtral-TTS, and OpenMOSS MOSS-TTS
-- Enabled torch.compile + CUDA Graph capture for TTS autoregressive backbones, cutting per-frame decode latency 22ms → 4ms
-- Designed a content-keyed LRU cache for reference-audio encoding, cutting repeat-voice request latency 3x
+- Added native serving support for 5 TTS model families (Qwen3-TTS, Voxtral-TTS, OpenMOSS MOSS-TTS Delay + Local-Transformer, Zyphra ZONOS2 MoE) through staged preprocessing → AR-decode → vocoder pipelines
+- Initiated a codebase-wide refactor of the TTS serving stack, proposing migration of the last bespoke-scheduler AR model (~591-line custom scheduler) onto the shared scheduler used by every other model
+- Optimized model serving via torch.compile + CUDA Graph capture (22ms → 4ms per-frame decode latency), a content-keyed LRU cache for reference-audio encoding (3x latency cut), and radix-cache adaptation for multi-channel token sequences to reuse cached reference-audio prefixes
 
 **Microsoft Research Asia** (Jul 2024 - Jul 2025)
 *Research Intern, Systems & Networking Group*

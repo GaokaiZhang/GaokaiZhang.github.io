@@ -45,14 +45,14 @@
       "position": "Software Engineer Intern, NOVA",
       "startDate": "2026-05",
       "endDate": "",
-      "summary": "Agentic-workflow tooling and tokenomics: Coding Guardrails (Perforce SCM support, Bring-Your-Own-Capability), tokenomics-meter telemetry, and model-routing benchmarking."
+      "summary": "Governance/security tooling for AI coding agents (Perforce SCM support, breaking-API-change detection), a token-saving system for agentic workflows, and a token/cost telemetry pipeline for agentic coding-tool usage."
     },
     {
       "name": "sglang-omni (SGLang Project)",
       "position": "Open Source Contributor",
       "startDate": "2026-04",
       "endDate": "",
-      "summary": "Native TTS serving support for Qwen3-TTS, Voxtral-TTS, and OpenMOSS MOSS-TTS; torch.compile/CUDA Graph optimization; reference-audio LRU caching."
+      "summary": "Native serving support for 5 TTS model families; initiated a codebase-wide TTS serving-stack refactor; optimized serving via torch.compile/CUDA Graph, LRU caching, and radix-cache adaptation."
     },
     {
       "name": "Carnegie Mellon University",
