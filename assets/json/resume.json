@@ -45,7 +45,7 @@
       "position": "Software Engineer Intern, AI Tools Team",
       "startDate": "2026-05",
       "endDate": "",
-      "summary": "Hook- and skill-based guardrails for AI coding agents, token-saving agent-workflow skills, and session-level hooks that meter token/cost usage across agent workflows."
+      "summary": "Hook- and skill-based guardrails spanning 5 check categories, token-saving agent-workflow skills, and session-level hooks that meter token/cost usage and benchmark model-routing cost/latency tradeoffs."
     },
     {
       "name": "sglang-omni (SGLang Project)",
