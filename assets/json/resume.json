@@ -41,6 +41,27 @@
   ],
   "work": [
     {
+      "name": "NVIDIA",
+      "position": "Software Engineer Intern, NOVA",
+      "startDate": "2026-05",
+      "endDate": "",
+      "summary": "Agentic-workflow tooling and tokenomics: Coding Guardrails (Perforce SCM support, Bring-Your-Own-Capability), tokenomics-meter telemetry, and model-routing benchmarking."
+    },
+    {
+      "name": "sglang-omni (SGLang Project)",
+      "position": "Open Source Contributor",
+      "startDate": "2026-04",
+      "endDate": "",
+      "summary": "Native TTS serving support for Qwen3-TTS, Voxtral-TTS, and OpenMOSS MOSS-TTS; torch.compile/CUDA Graph optimization; reference-audio LRU caching."
+    },
+    {
+      "name": "Carnegie Mellon University",
+      "position": "Research Assistant",
+      "startDate": "2025-10",
+      "endDate": "",
+      "summary": "Language Technologies Institute. Synthetic task generation for training coding agents to generalize across repository-level environments (Hybrid-Gym)."
+    },
+    {
       "name": "Microsoft Research Asia",
       "position": "Research Intern",
       "startDate": "2024-07",
@@ -57,6 +78,11 @@
     {
       "name": "LoongRL: Incentivizing Long-Context Reasoning in LLMs via RL",
       "publisher": "ICLR 2026 Oral",
+      "releaseDate": "2026"
+    },
+    {
+      "name": "Hybrid-Gym: Training Coding Agents to Generalize Across Tasks",
+      "publisher": "ICML 2026",
       "releaseDate": "2026"
     }
   ]
