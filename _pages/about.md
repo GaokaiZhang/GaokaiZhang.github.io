@@ -36,11 +36,11 @@ Currently, I'm interning at **NVIDIA** on agentic-workflow tooling and tokenomic
 ### Experience
 
 **NVIDIA** (May 2026 - Present)
-*Software Engineer Intern, NOVA*
+*Software Engineer Intern, AI Tools Team*
 
-- Built governance and security tooling for AI coding agents: extended a secret/code-scanning guardrail with Perforce SCM support and a pluggable capability-extension system, and added breaking-API-change detection plus enforced test-implementation checks to a V-model-based agent development workflow, across 19 authored merge requests (9 merged)
-- Contributed to a token-saving system for agentic coding workflows, exposing a reusable savings-event builder and idempotent context compaction, and forwarding savings telemetry to a centralized cost-relay integration for downstream cost dashboards
-- Built the core telemetry pipeline for agentic coding-tool token and cost usage — an egress allow-list/sanitization gate, a shared producer-log collector, and session-spine/subagent-fanout schema fields feeding a live cost-monitoring dashboard — across 18 authored merge requests (15 merged)
+- Built hook- and skill-based guardrails that validate and scan AI coding-agent actions in real time across NVIDIA's agentic developer-tooling platform
+- Contributed to token-saving agent-workflow skills that cut token consumption via context compaction and cost-aware session hooks
+- Built session-level hooks that meter token and cost usage across agent workflows, feeding internal AI-tooling cost-governance dashboards
 
 **sglang-omni** (Apr 2026 - Present)
 *Open Source Contributor, [SGLang Project](https://github.com/sgl-project/sglang-omni)*
